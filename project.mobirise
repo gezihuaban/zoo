@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -543,7 +543,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-2018-06-16-04.39.46-2000x1255.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -560,7 +560,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-2018-06-16-05.32.54-2000x1220.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
